@@ -15,4 +15,4 @@ default_values = open("day_1/defaultinput.txt","r").read().split("\n")
 input_values = open("day_1/input.txt","r").read().split("\n")
 
 test(main_d1a1(input_values),55386)
-test(main_d1a2(input_values),281)
+test(main_d1a2(input_values),54824)
